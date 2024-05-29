@@ -65,17 +65,19 @@ section.img{
     background-attachment: fixed;
 }
 section.img> p {
-    background-color: rgba(0, 0, 0, 0.103);
+    background-color: rgba(0, 0, 0, 0.384);
     display: inline-block;
     padding: 10px;
     text-shadow: 1px 1px 0px black;
+    border-radius: 5px;
 }
 section#img01{
-    background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/background002.jpg);
     background-position: right center;
     background-size: cover;
 }
 section#img02{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/backnovo.jpg);
     background-size: cover;
+    background-position: right center;
 }
