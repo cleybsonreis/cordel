@@ -72,12 +72,12 @@ section.img> p {
     border-radius: 5px;
 }
 section#img01{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/backnovo.jpg);
     background-position: right center;
     background-size: cover;
 }
 section#img02{
-    background-image: url(imagens/backnovo.jpg);
+    background-image: url(imagens/background002.jpg);
     background-size: cover;
     background-position: right center;
 }
